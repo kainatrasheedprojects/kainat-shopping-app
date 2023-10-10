@@ -9,6 +9,7 @@ import Location from './components/Location';
 function App() {
   return (
     <div className="App">
+      <h1> hello kainat</h1>
     </div>
   );
 }
